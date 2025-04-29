@@ -1,28 +1,23 @@
 {
-  "name": "dashboard-autsourcing",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pulzar1989/dashboard-autsourcing.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Pulzar1989/dashboard-autsourcing/issues"
-  },
-  "homepage": "https://github.com/Pulzar1989/dashboard-autsourcing#readme",
-  "description": ""
-}
-{
+    "name": "dashboard-autsourcing",
+    "version": "1.0.0",
+    "main": "index.js",
     "scripts": {
-      "start": "react-scripts start",
-      "build": "react-scripts build",
-      "test": "react-scripts test",
-      "eject": "react-scripts eject"
-    }
-  }
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pulzar1989/dashboard-autsourcing.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Pulzar1989/dashboard-autsourcing/issues"
+    },
+    "homepage": "https://github.com/Pulzar1989/dashboard-autsourcing#readme",
+    "description": ""
+}
