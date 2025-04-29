@@ -18,3 +18,11 @@
   "homepage": "https://github.com/Pulzar1989/dashboard-autsourcing#readme",
   "description": ""
 }
+{
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    }
+  }
